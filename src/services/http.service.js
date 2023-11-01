@@ -1,9 +1,9 @@
-import axios from"axios";
+import axios from "axios";
 
 const commonConfig = {
-    Headers: {
-        "Content-Type":"application/json",
-        Accept:"application/json",
+    headers: {
+        "Content-Type": "application/json",
+        Accept: "application/json",
     },
 };
 
